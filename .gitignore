@@ -1,0 +1,12 @@
+# do NOT track these folders
+
+.vscode/
+__pycache__/
+.pytest_cache/
+
+#do NOT track these files
+config.json
+Pipfile
+Pipfile.lock
+
+Testing on new branch

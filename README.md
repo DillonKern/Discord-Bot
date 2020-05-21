@@ -1,2 +1,3 @@
-# Discord-Bot
-Made a discord bot with various API's and other functions using discord.py
+# CS 4398 Spring 2020 Term Project.
+
+## Pandora's Box
